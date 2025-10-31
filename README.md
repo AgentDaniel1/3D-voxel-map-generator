@@ -943,9 +943,6 @@ addons/map_generator/
 ├── map_debug_visualizer.gd         # Debug tools
 ├── icons/
 │   └── map_generator.svg           # Node icon
-└── examples/
-    ├── example_world_generator.gd  # Usage example
-    └── example_biome_presets.gd    # Biome templates
 ```
 
 ## 💾 Save File Format

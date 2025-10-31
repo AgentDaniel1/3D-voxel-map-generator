@@ -1377,7 +1377,6 @@ Found a bug? Please include:
 ## 💬 Support
 
 - **Documentation**: This README
-- **Examples**: See `examples/` folder
 - **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
 

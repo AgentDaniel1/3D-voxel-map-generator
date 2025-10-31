@@ -1404,7 +1404,7 @@ Found a bug? Please include:
 ## 📚 Additional Resources
 
 - [Godot Engine Documentation](https://docs.godotengine.org/)
-- [VoxelWorldManager Addon]([https://github.com/your-repo/voxel-world](https://github.com/AgentDaniel1/3D-voxel-map-manager.git))
+- [VoxelWorldManager Addon]([https://github.com/your-repo/voxel-world](https://github.com/AgentDaniel1/3D-voxel-map-manager.git)
 - [Procedural Generation Guide](https://www.redblobgames.com/maps/terrain-from-noise/)
 - [Perlin Noise Explained](https://adrianb.io/2014/08/09/perlinnoise.html)
 
